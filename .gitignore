@@ -1,0 +1,5 @@
+.DS_Store
+kinectExample/*.xcodeproj
+kinectExample/*.plist
+kinectExample/*.xconfig
+kinectExample/bin
